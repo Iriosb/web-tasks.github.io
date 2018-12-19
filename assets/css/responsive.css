@@ -1,0 +1,17 @@
+@media screen and (max-width: 992px) {
+    .bg-form{
+        padding: 90px 20px 19px 20px;
+        height: auto;
+        background: transparent;
+    }
+
+    .main-container{
+        top: 0 !important;
+        height: 400px !important;
+        position: relative !important;
+    }
+
+    .bg-total{
+        height: auto !important;   
+    }
+}
